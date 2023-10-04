@@ -16,7 +16,7 @@ a {
     color: #2e72a1;
 }
 
-#logo, .project-img {
+#logo.project-img {
     max-height: 300px;
 }
 
@@ -35,8 +35,8 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #33a6a6; /* White */
+    color: #33a6a6;
 }
 
 .bg-2 {
