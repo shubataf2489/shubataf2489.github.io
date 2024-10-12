@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #EDE8F5;
 }
 
 p {
@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #7091E6; /* Blue */
     color: #ffffff;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #3D52A0; /* Black */
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #7091E6; /* Dark Gray */
     color: #fff;
 }
 
